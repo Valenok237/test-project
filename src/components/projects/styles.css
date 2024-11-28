@@ -1,0 +1,18 @@
+.projects{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projects__list{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.projects__null{
+    font-size: 20px;
+    margin-bottom: 30px;
+}

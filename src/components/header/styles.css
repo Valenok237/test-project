@@ -1,0 +1,33 @@
+.header{
+    display: flex; 
+    justify-content: flex-end;
+    background-color: black;
+    padding: 20px 40px;
+    margin-bottom: 70px;
+}
+
+.header__button{
+    background-color: inherit;
+    padding: 5px 10px;
+    font-size: 18px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: ease .3s;
+}
+
+.header__button:hover{
+    color: #195cec;
+    border-color: #195bec;
+}
+
+.header__link{
+    font-size: 18px;
+    color: #195cec;
+}
+
+.header span{
+    margin: 0 10px;
+    color: #195cec;
+}

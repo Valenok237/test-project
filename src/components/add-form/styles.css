@@ -1,0 +1,21 @@
+.add-form{
+    width: 350px;
+    margin-bottom: 70px;
+}
+
+.add-form__field{
+    width: 80%;
+    height: 45px;
+    padding: 10px 5px;
+    font-size: 17px;
+    border: 2px solid black;
+}
+
+.add-form__btn{
+    width: 20%;
+    height: 45px;
+    font-size: 17px;
+    padding: 10px;
+    background-color: #195bec;
+    cursor: pointer;
+}
